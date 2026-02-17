@@ -21,7 +21,7 @@ const encouragementMessages = [
     "Fa5our bik enii ! 🌟",
     "Hayya! Mazelit haja okhra testana fik baed hadha! 🏃‍♀️",
     "9rib 9rib ! Keep going! ✨",
-    "Haya ya rouhi ! You can do it! 💪",
+    "Haya ya mizyenna ! You can do it! 💪",
     "So close to my heart! 💗",
     "Rakez haya! 🎯",
     "Don't stop now! 🔥",
